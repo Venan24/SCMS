@@ -10,7 +10,7 @@ Sales &amp; Company Management System
 * Tax and Discount Management (CRUD)
 * Backup Option
 * Company Settings
-* System User Management
+* System User Management (CRUD)
 * DataTables for all lists
 
 ## Technologies Used
